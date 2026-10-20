@@ -12,18 +12,18 @@ let package = Package(
 	targets: [
 		.binaryTarget(
 			name: "IPinfoKit",
-			url: "https://github.com/ipinfo/apple-device-sdk-xcframeworks/releases/download/0.6.0/IPinfoKit.xcframework.zip",
-			checksum: "25bc5e9cede924e870eee4cc0ca9db44f34adef4e7fff9f2e49f46029cbfb551"
+			url: "https://github.com/ipinfo/apple-device-sdk-xcframeworks/releases/download/0.6.4/IPinfoKit.xcframework.zip",
+			checksum: "a31afd8d4e267a9d6eb8c768d3a076890a8d6568049530c37af02330f7ad7306"
 		),
 		.binaryTarget(
 			name: "HTTPClient",
-			url: "https://github.com/ipinfo/apple-device-sdk-xcframeworks/releases/download/0.6.0/HTTPClient.xcframework.zip",
-			checksum: "f7615b596cb6fa35f9954ab3c083c7a7f290324b47043e242f0c9e18e9bb5671"
+			url: "https://github.com/ipinfo/apple-device-sdk-xcframeworks/releases/download/0.6.4/HTTPClient.xcframework.zip",
+			checksum: "817dc9d9976c6adc87b4eb0976f143022b7c9a687fec35482eefbbbcd54d84df"
 		),
 		.binaryTarget(
 			name: "Hopscotch",
-			url: "https://github.com/ipinfo/apple-device-sdk-xcframeworks/releases/download/0.6.0/Hopscotch.xcframework.zip",
-			checksum: "bb547dfefad20b1e42d15e45676c16e14533f6b383b3dd671a995bb99b0b071f"
+			url: "https://github.com/ipinfo/apple-device-sdk-xcframeworks/releases/download/0.6.4/Hopscotch.xcframework.zip",
+			checksum: "705204031d772d8156b337e44e2f17c4074492bd323485e2d39c8d4241a5ab75"
 		),
 	]
 )
